@@ -1,0 +1,19 @@
+{
+        "customer": {
+            "Address": "Санкт-Петербург, 195298, Белорусская, 6",
+            "Name": "Sergey Petrov"
+        },
+        "payment": {
+            "paymentType": "Mir",
+            "done": True,
+            "paymentData": "5446 0089 4325 6454/2022-10-30_11-7"
+        },
+        "goods": [
+            {
+                "id": 5423454342864,
+                "storageId": 120023,
+                "sellerName": "GoodsGoodShop",
+                "price": 1500
+            }
+        ]
+    }
